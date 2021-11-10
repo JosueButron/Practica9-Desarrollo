@@ -1,0 +1,2 @@
+D:\Repos Desarrollo de Aplicaciones\Ejercicio5_practica9\Ejercicio5_practica9\obj\Debug\Ejercicio5_practica9.csproj.AssemblyReference.cache
+D:\Repos Desarrollo de Aplicaciones\Ejercicio5_practica9\Ejercicio5_practica9\obj\Debug\Ejercicio5_practica9.csproj.CoreCompileInputs.cache
